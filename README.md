@@ -23,12 +23,10 @@ To run visual regression tests, use the following command:
 
 ```bash
 npm run backstop:test
-This will generate and compare screenshots based on your configuration.
 
-Generating Reference Screenshots
+6. Generating Reference Screenshots
 If you want to update the reference screenshots, use:
 
 bash
-Copy code
 npm run backstop:reference
 
