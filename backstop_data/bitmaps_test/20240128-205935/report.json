@@ -1,0 +1,162 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/BBCHomepageVisualTesty_BackstopJS_Homepage_0_document_0_phone.png",
+        "test": "../bitmaps_test/20240128-205935/BBCHomepageVisualTesty_BackstopJS_Homepage_0_document_0_phone.png",
+        "selector": "document",
+        "fileName": "BBCHomepageVisualTesty_BackstopJS_Homepage_0_document_0_phone.png",
+        "label": "BackstopJS Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.bbc.co.uk/",
+        "referenceUrl": "https://www.bbc.co.uk/",
+        "expect": 0,
+        "viewportLabel": "phone",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.004566589173032215,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 328
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/BBCHomepageVisualTesty_BackstopJS_Homepage_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20240128-205935/BBCHomepageVisualTesty_BackstopJS_Homepage_0_document_1_tablet.png",
+        "selector": "document",
+        "fileName": "BBCHomepageVisualTesty_BackstopJS_Homepage_0_document_1_tablet.png",
+        "label": "BackstopJS Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.bbc.co.uk/",
+        "referenceUrl": "https://www.bbc.co.uk/",
+        "expect": 0,
+        "viewportLabel": "tablet",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.0012285522085546548,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 451
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/BBCHomepageVisualTesty_BackstopJS_Homepage_0_document_2_desktop.png",
+        "test": "../bitmaps_test/20240128-205935/BBCHomepageVisualTesty_BackstopJS_Homepage_0_document_2_desktop.png",
+        "selector": "document",
+        "fileName": "BBCHomepageVisualTesty_BackstopJS_Homepage_0_document_2_desktop.png",
+        "label": "BackstopJS Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.bbc.co.uk/",
+        "referenceUrl": "https://www.bbc.co.uk/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.0016127545848308913,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 567
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/BBCHomepageVisualTesty_BackstopJS_Sports_Page_0_document_0_phone.png",
+        "test": "../bitmaps_test/20240128-205935/BBCHomepageVisualTesty_BackstopJS_Sports_Page_0_document_0_phone.png",
+        "selector": "document",
+        "fileName": "BBCHomepageVisualTesty_BackstopJS_Sports_Page_0_document_0_phone.png",
+        "label": "BackstopJS Sports Page",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.bbc.co.uk/sport/",
+        "referenceUrl": "https://www.bbc.co.uk/sport",
+        "expect": 0,
+        "viewportLabel": "phone",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.01929072868460271,
+          "misMatchPercentage": "0.02",
+          "analysisTime": 286
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/BBCHomepageVisualTesty_BackstopJS_Sports_Page_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20240128-205935/BBCHomepageVisualTesty_BackstopJS_Sports_Page_0_document_1_tablet.png",
+        "selector": "document",
+        "fileName": "BBCHomepageVisualTesty_BackstopJS_Sports_Page_0_document_1_tablet.png",
+        "label": "BackstopJS Sports Page",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.bbc.co.uk/sport/",
+        "referenceUrl": "https://www.bbc.co.uk/sport",
+        "expect": 0,
+        "viewportLabel": "tablet",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.014810635239741469,
+          "misMatchPercentage": "0.01",
+          "analysisTime": 426
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/BBCHomepageVisualTesty_BackstopJS_Sports_Page_0_document_2_desktop.png",
+        "test": "../bitmaps_test/20240128-205935/BBCHomepageVisualTesty_BackstopJS_Sports_Page_0_document_2_desktop.png",
+        "selector": "document",
+        "fileName": "BBCHomepageVisualTesty_BackstopJS_Sports_Page_0_document_2_desktop.png",
+        "label": "BackstopJS Sports Page",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.bbc.co.uk/sport/",
+        "referenceUrl": "https://www.bbc.co.uk/sport",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.006075594693504117,
+          "misMatchPercentage": "0.01",
+          "analysisTime": 521
+        }
+      },
+      "status": "pass"
+    }
+  ],
+  "id": "BBC Homepage Visual Testy"
+}
